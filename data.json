@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "id": "101",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "rate": null,
+      "photo": "https://m.media-amazon.com/images/I/81eyr8gG8NL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "102",
+      "title": "Stranger",
+      "author": "Albert Camus",
+      "rate": null,
+      "photo": "https://i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400"
+    },
+    {
+      "id": "103",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "rate": null,
+      "photo": "https://cdn.penguin.co.uk/dam-assets/books/9780141199078/9780141199078-jacket-large.jpg"
+    },
+    {
+      "id": "104",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rate": null,
+      "photo": "https://cdn.penguin.co.uk/dam-assets/books/9781784752637/9781784752637-jacket-large.jpg"
+    },
+    {
+      "id": "105",
+      "title": " One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "rate": null,
+      "photo": "https://cdn.penguin.co.uk/dam-assets/books/9780241968581/9780241968581-jacket-large.jpg"
+    },
+    {
+      "id": "106",
+      "title": " In Cold Blood",
+      "author": "Truman Capote",
+      "rate": null,
+      "photo": "https://cdn.penguin.co.uk/dam-assets/books/9780141182575/9780141182575-jacket-large.jpg"
+    },
+    {
+      "id": "107",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "rate": null,
+      "photo": "https://cdn.penguin.co.uk/dam-assets/books/9781784870140/9781784870140-jacket-large.jpg"
+    },
+    {
+      "id": "108",
+      "title": "The Godfather",
+      "author": "Mario Puzo",
+      "rate": null,
+      "photo": "https://cdn.penguin.co.uk/dam-assets/books/9780099528128/9780099528128-jacket-large.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "103",
+      "text": "Such a great book",
+      "rate": 5,
+      "book": "101"
+    },
+    {
+      "id": "104",
+      "text": "Such a great book",
+      "rate": 3,
+      "book": "102"
+    },
+    {
+      "id": "1f0c",
+      "text": "it's a good book",
+      "rate": 4,
+      "book": "102"
+    },
+    {
+      "id": "ac51",
+      "text": "Thanks",
+      "rate": 2,
+      "book": "102"
+    },
+    {
+      "id": "cca9",
+      "text": "Three rate",
+      "rate": 3,
+      "book": "101"
+    },
+    {
+      "id": "8cc8",
+      "text": "Hello",
+      "rate": 2,
+      "book": "105"
+    },
+    {
+      "id": "7db7",
+      "text": "Very Good",
+      "rate": 5,
+      "book": "103"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+body{
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+.list-books {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 100px;
+  padding:50px;
+}
+
+.list-books div {
+  width:200px;
+  background-color: gray;
+  padding: 10px;
+  border-radius: 1rem;
+}
+
+.list-books div:hover {
+  opacity: 0.6;
+}
+
+.block-comment {
+  display: flex;
+  flex-direction: row;
+  gap: 20px
+}
+
+.block-comment button {
+  height: 40px;
+  background-color: lightblue;
+  color: black;
+  margin-top: 65px;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-content {
+  background: #fff !important;
+  padding: 20px;
+  border-radius: 8px;
+  width: 200px;
+  max-width: 50%;
+  height:100px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.modal-content form {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  input {
+    width: 400px;
+    height: 40px;
+  };
+  button {
+    margin-top: 0px;
+  }
+}
+
+
